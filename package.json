@@ -27,5 +27,6 @@
   "dependencies": {
     "gm": "^1.21.1",
     "lodash": "^3.10.1"
-  }
+  },
+  "devDependencies": {}
 }
